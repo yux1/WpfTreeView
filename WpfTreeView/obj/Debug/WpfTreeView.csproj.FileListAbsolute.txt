@@ -1,7 +1,6 @@
 C:\Users\brians\source\repos\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe.config
 C:\Users\brians\source\repos\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.exe
 C:\Users\brians\source\repos\WpfTreeView\WpfTreeView\bin\Debug\WpfTreeView.pdb
-C:\Users\brians\source\repos\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView.csprojAssemblyReference.cache
 C:\Users\brians\source\repos\WpfTreeView\WpfTreeView\obj\Debug\MainWindow.g.cs
 C:\Users\brians\source\repos\WpfTreeView\WpfTreeView\obj\Debug\App.g.cs
 C:\Users\brians\source\repos\WpfTreeView\WpfTreeView\obj\Debug\WpfTreeView_MarkupCompile.cache

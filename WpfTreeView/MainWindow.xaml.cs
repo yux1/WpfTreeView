@@ -59,6 +59,11 @@ namespace WpfTreeView
 
         #region Folder Expanded
 
+        /// <summary>
+        /// When a folder is expanded, find the sub folders/files
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void Folder_Expanded(object sender, RoutedEventArgs e)
         {
             #region Initial Checks
@@ -152,6 +157,7 @@ namespace WpfTreeView
 
         #endregion
 
+        #region Helpers
         /// <summary>
         /// Find the file or folder name from a full path
         /// </summary>
@@ -180,5 +186,6 @@ namespace WpfTreeView
             return path.Substring(lastIndex +1);
         }
 
+        #endregion
     }
 }
